@@ -1,0 +1,34 @@
+{
+  "cameras": [
+    {
+      "name": "Камера 1",
+      "location": "Столовая",
+      "status": true,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Камера 2",
+      "location": "Вход",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Камера 3",
+      "location": "1 этаж",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Камера 4",
+      "location": "2 этаж",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Камера 5",
+      "location": "3 этаж",
+      "status": false
+    }
+  ]
+}
